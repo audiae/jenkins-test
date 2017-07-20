@@ -1,2 +1,2 @@
 # jenkins-test
-devops test
+devops test tomcat+jenkins
